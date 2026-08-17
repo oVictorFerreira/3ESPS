@@ -1,0 +1,14 @@
+C:\Users\labsfiap\source\repos\Aula02_GitIgnore\Aula02_GitIgnore\bin\Debug\net10.0\Aula02_GitIgnore.exe
+C:\Users\labsfiap\source\repos\Aula02_GitIgnore\Aula02_GitIgnore\bin\Debug\net10.0\Aula02_GitIgnore.deps.json
+C:\Users\labsfiap\source\repos\Aula02_GitIgnore\Aula02_GitIgnore\bin\Debug\net10.0\Aula02_GitIgnore.runtimeconfig.json
+C:\Users\labsfiap\source\repos\Aula02_GitIgnore\Aula02_GitIgnore\bin\Debug\net10.0\Aula02_GitIgnore.dll
+C:\Users\labsfiap\source\repos\Aula02_GitIgnore\Aula02_GitIgnore\bin\Debug\net10.0\Aula02_GitIgnore.pdb
+C:\Users\labsfiap\source\repos\Aula02_GitIgnore\Aula02_GitIgnore\obj\Debug\net10.0\Aula02_GitIgnore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\source\repos\Aula02_GitIgnore\Aula02_GitIgnore\obj\Debug\net10.0\Aula02_GitIgnore.AssemblyInfoInputs.cache
+C:\Users\labsfiap\source\repos\Aula02_GitIgnore\Aula02_GitIgnore\obj\Debug\net10.0\Aula02_GitIgnore.AssemblyInfo.cs
+C:\Users\labsfiap\source\repos\Aula02_GitIgnore\Aula02_GitIgnore\obj\Debug\net10.0\Aula02_GitIgnore.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\source\repos\Aula02_GitIgnore\Aula02_GitIgnore\obj\Debug\net10.0\Aula02_GitIgnore.dll
+C:\Users\labsfiap\source\repos\Aula02_GitIgnore\Aula02_GitIgnore\obj\Debug\net10.0\refint\Aula02_GitIgnore.dll
+C:\Users\labsfiap\source\repos\Aula02_GitIgnore\Aula02_GitIgnore\obj\Debug\net10.0\Aula02_GitIgnore.pdb
+C:\Users\labsfiap\source\repos\Aula02_GitIgnore\Aula02_GitIgnore\obj\Debug\net10.0\Aula02_GitIgnore.genruntimeconfig.cache
+C:\Users\labsfiap\source\repos\Aula02_GitIgnore\Aula02_GitIgnore\obj\Debug\net10.0\ref\Aula02_GitIgnore.dll

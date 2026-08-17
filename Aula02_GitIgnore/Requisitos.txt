@@ -1,0 +1,20 @@
+## Case
+
+Um cliente precisa de um programa que calcule o custo final de um carro Elétrico e avaliar a viabilidade de compra
+
+### Requisitos
+
+O usuário deve solicitar:
+
+- O modelo do veículo
+- O valor base
+- Autonomia
+- Idade do comprador
+
+### Ações
+
+- O nome do Modelo em letras Maíusculas
+- O valor final do carro já com o desconto
+- O valor de cada parcela
+- Verificar se o usuario é maior de idade e o veiculo tem uma
+autonomia acima de 300

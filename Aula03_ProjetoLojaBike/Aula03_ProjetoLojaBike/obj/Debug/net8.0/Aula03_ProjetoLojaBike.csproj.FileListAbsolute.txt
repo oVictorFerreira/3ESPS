@@ -1,0 +1,14 @@
+C:\Users\labsfiap\Desktop\Aula03_ProjetoLojaBike\Aula03_ProjetoLojaBike\obj\Debug\net8.0\Aula03_ProjetoLojaBike.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Desktop\Aula03_ProjetoLojaBike\Aula03_ProjetoLojaBike\obj\Debug\net8.0\Aula03_ProjetoLojaBike.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Desktop\Aula03_ProjetoLojaBike\Aula03_ProjetoLojaBike\obj\Debug\net8.0\Aula03_ProjetoLojaBike.AssemblyInfo.cs
+C:\Users\labsfiap\Desktop\Aula03_ProjetoLojaBike\Aula03_ProjetoLojaBike\obj\Debug\net8.0\Aula03_ProjetoLojaBike.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Desktop\Aula03_ProjetoLojaBike\Aula03_ProjetoLojaBike\bin\Debug\net8.0\Aula03_ProjetoLojaBike.exe
+C:\Users\labsfiap\Desktop\Aula03_ProjetoLojaBike\Aula03_ProjetoLojaBike\bin\Debug\net8.0\Aula03_ProjetoLojaBike.deps.json
+C:\Users\labsfiap\Desktop\Aula03_ProjetoLojaBike\Aula03_ProjetoLojaBike\bin\Debug\net8.0\Aula03_ProjetoLojaBike.runtimeconfig.json
+C:\Users\labsfiap\Desktop\Aula03_ProjetoLojaBike\Aula03_ProjetoLojaBike\bin\Debug\net8.0\Aula03_ProjetoLojaBike.dll
+C:\Users\labsfiap\Desktop\Aula03_ProjetoLojaBike\Aula03_ProjetoLojaBike\bin\Debug\net8.0\Aula03_ProjetoLojaBike.pdb
+C:\Users\labsfiap\Desktop\Aula03_ProjetoLojaBike\Aula03_ProjetoLojaBike\obj\Debug\net8.0\Aula03_ProjetoLojaBike.dll
+C:\Users\labsfiap\Desktop\Aula03_ProjetoLojaBike\Aula03_ProjetoLojaBike\obj\Debug\net8.0\refint\Aula03_ProjetoLojaBike.dll
+C:\Users\labsfiap\Desktop\Aula03_ProjetoLojaBike\Aula03_ProjetoLojaBike\obj\Debug\net8.0\Aula03_ProjetoLojaBike.pdb
+C:\Users\labsfiap\Desktop\Aula03_ProjetoLojaBike\Aula03_ProjetoLojaBike\obj\Debug\net8.0\Aula03_ProjetoLojaBike.genruntimeconfig.cache
+C:\Users\labsfiap\Desktop\Aula03_ProjetoLojaBike\Aula03_ProjetoLojaBike\obj\Debug\net8.0\ref\Aula03_ProjetoLojaBike.dll

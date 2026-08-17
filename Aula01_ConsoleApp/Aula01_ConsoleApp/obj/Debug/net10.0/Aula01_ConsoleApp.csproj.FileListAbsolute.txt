@@ -1,0 +1,14 @@
+C:\Users\labsfiap\Desktop\Aula01_ConsoleApp\Aula01_ConsoleApp\bin\Debug\net10.0\Aula01_ConsoleApp.exe
+C:\Users\labsfiap\Desktop\Aula01_ConsoleApp\Aula01_ConsoleApp\bin\Debug\net10.0\Aula01_ConsoleApp.deps.json
+C:\Users\labsfiap\Desktop\Aula01_ConsoleApp\Aula01_ConsoleApp\bin\Debug\net10.0\Aula01_ConsoleApp.runtimeconfig.json
+C:\Users\labsfiap\Desktop\Aula01_ConsoleApp\Aula01_ConsoleApp\bin\Debug\net10.0\Aula01_ConsoleApp.dll
+C:\Users\labsfiap\Desktop\Aula01_ConsoleApp\Aula01_ConsoleApp\bin\Debug\net10.0\Aula01_ConsoleApp.pdb
+C:\Users\labsfiap\Desktop\Aula01_ConsoleApp\Aula01_ConsoleApp\obj\Debug\net10.0\Aula01_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Desktop\Aula01_ConsoleApp\Aula01_ConsoleApp\obj\Debug\net10.0\Aula01_ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Desktop\Aula01_ConsoleApp\Aula01_ConsoleApp\obj\Debug\net10.0\Aula01_ConsoleApp.AssemblyInfo.cs
+C:\Users\labsfiap\Desktop\Aula01_ConsoleApp\Aula01_ConsoleApp\obj\Debug\net10.0\Aula01_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Desktop\Aula01_ConsoleApp\Aula01_ConsoleApp\obj\Debug\net10.0\Aula01_ConsoleApp.dll
+C:\Users\labsfiap\Desktop\Aula01_ConsoleApp\Aula01_ConsoleApp\obj\Debug\net10.0\refint\Aula01_ConsoleApp.dll
+C:\Users\labsfiap\Desktop\Aula01_ConsoleApp\Aula01_ConsoleApp\obj\Debug\net10.0\Aula01_ConsoleApp.pdb
+C:\Users\labsfiap\Desktop\Aula01_ConsoleApp\Aula01_ConsoleApp\obj\Debug\net10.0\Aula01_ConsoleApp.genruntimeconfig.cache
+C:\Users\labsfiap\Desktop\Aula01_ConsoleApp\Aula01_ConsoleApp\obj\Debug\net10.0\ref\Aula01_ConsoleApp.dll
