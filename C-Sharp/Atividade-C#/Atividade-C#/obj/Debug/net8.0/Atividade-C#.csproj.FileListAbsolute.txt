@@ -1,0 +1,14 @@
+C:\Users\labsfiap\Desktop\Atividade-C#\Atividade-C#\bin\Debug\net8.0\Atividade-C#.exe
+C:\Users\labsfiap\Desktop\Atividade-C#\Atividade-C#\bin\Debug\net8.0\Atividade-C#.deps.json
+C:\Users\labsfiap\Desktop\Atividade-C#\Atividade-C#\bin\Debug\net8.0\Atividade-C#.runtimeconfig.json
+C:\Users\labsfiap\Desktop\Atividade-C#\Atividade-C#\bin\Debug\net8.0\Atividade-C#.dll
+C:\Users\labsfiap\Desktop\Atividade-C#\Atividade-C#\bin\Debug\net8.0\Atividade-C#.pdb
+C:\Users\labsfiap\Desktop\Atividade-C#\Atividade-C#\obj\Debug\net8.0\Atividade-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Desktop\Atividade-C#\Atividade-C#\obj\Debug\net8.0\Atividade-C#.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Desktop\Atividade-C#\Atividade-C#\obj\Debug\net8.0\Atividade-C#.AssemblyInfo.cs
+C:\Users\labsfiap\Desktop\Atividade-C#\Atividade-C#\obj\Debug\net8.0\Atividade-C#.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Desktop\Atividade-C#\Atividade-C#\obj\Debug\net8.0\Atividade-C#.dll
+C:\Users\labsfiap\Desktop\Atividade-C#\Atividade-C#\obj\Debug\net8.0\refint\Atividade-C#.dll
+C:\Users\labsfiap\Desktop\Atividade-C#\Atividade-C#\obj\Debug\net8.0\Atividade-C#.pdb
+C:\Users\labsfiap\Desktop\Atividade-C#\Atividade-C#\obj\Debug\net8.0\Atividade-C#.genruntimeconfig.cache
+C:\Users\labsfiap\Desktop\Atividade-C#\Atividade-C#\obj\Debug\net8.0\ref\Atividade-C#.dll
