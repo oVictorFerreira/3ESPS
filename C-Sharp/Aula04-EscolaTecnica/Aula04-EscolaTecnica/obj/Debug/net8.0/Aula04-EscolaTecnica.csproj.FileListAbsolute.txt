@@ -1,0 +1,14 @@
+C:\Users\labsfiap\Desktop\Aula04-EscolaTecnica\Aula04-EscolaTecnica\obj\Debug\net8.0\Aula04-EscolaTecnica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Desktop\Aula04-EscolaTecnica\Aula04-EscolaTecnica\obj\Debug\net8.0\Aula04-EscolaTecnica.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Desktop\Aula04-EscolaTecnica\Aula04-EscolaTecnica\obj\Debug\net8.0\Aula04-EscolaTecnica.AssemblyInfo.cs
+C:\Users\labsfiap\Desktop\Aula04-EscolaTecnica\Aula04-EscolaTecnica\obj\Debug\net8.0\Aula04-EscolaTecnica.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Desktop\Aula04-EscolaTecnica\Aula04-EscolaTecnica\bin\Debug\net8.0\Aula04-EscolaTecnica.exe
+C:\Users\labsfiap\Desktop\Aula04-EscolaTecnica\Aula04-EscolaTecnica\bin\Debug\net8.0\Aula04-EscolaTecnica.deps.json
+C:\Users\labsfiap\Desktop\Aula04-EscolaTecnica\Aula04-EscolaTecnica\bin\Debug\net8.0\Aula04-EscolaTecnica.runtimeconfig.json
+C:\Users\labsfiap\Desktop\Aula04-EscolaTecnica\Aula04-EscolaTecnica\bin\Debug\net8.0\Aula04-EscolaTecnica.dll
+C:\Users\labsfiap\Desktop\Aula04-EscolaTecnica\Aula04-EscolaTecnica\bin\Debug\net8.0\Aula04-EscolaTecnica.pdb
+C:\Users\labsfiap\Desktop\Aula04-EscolaTecnica\Aula04-EscolaTecnica\obj\Debug\net8.0\Aula04-EscolaTecnica.dll
+C:\Users\labsfiap\Desktop\Aula04-EscolaTecnica\Aula04-EscolaTecnica\obj\Debug\net8.0\refint\Aula04-EscolaTecnica.dll
+C:\Users\labsfiap\Desktop\Aula04-EscolaTecnica\Aula04-EscolaTecnica\obj\Debug\net8.0\Aula04-EscolaTecnica.pdb
+C:\Users\labsfiap\Desktop\Aula04-EscolaTecnica\Aula04-EscolaTecnica\obj\Debug\net8.0\Aula04-EscolaTecnica.genruntimeconfig.cache
+C:\Users\labsfiap\Desktop\Aula04-EscolaTecnica\Aula04-EscolaTecnica\obj\Debug\net8.0\ref\Aula04-EscolaTecnica.dll
